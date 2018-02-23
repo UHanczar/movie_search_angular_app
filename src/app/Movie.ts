@@ -4,4 +4,6 @@ export interface Movie {
   original_title?: string;
   overview?: string;
   release_date?: string;
+  backdropUrl?: string;
+  posterUrl?: string;
 }

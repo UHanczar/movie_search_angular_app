@@ -12,8 +12,4 @@ export class DisplayMovieComponent implements OnInit {
 
   ngOnInit() {
   }
-
-  private getPosterUrl(path: string) {
-    return 'http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2013/02/toy_story_wallpaper_by_artifypics-d5gss19.jpg';
-  }
 }
